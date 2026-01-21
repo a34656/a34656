@@ -14,6 +14,7 @@ I am current working at Kiit Robotics SOciety and AISOC. I an an intern at a com
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=a34656&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=a34656&limit=5&theme=dark&combine_all_yearly_contributions=true)
