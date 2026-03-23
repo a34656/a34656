@@ -122,6 +122,30 @@ me.say_hi()
 
 ---
 
+## `> git log --graph`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a34656&theme=react-dark&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true&area=true&area_color=00D9FF)](https://github.com/a34656)
+
+</div>
+
+---
+
+## `> contribution_snake --animate`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a34656/a34656/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a34656/a34656/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/a34656/a34656/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## `> connect --social`
 
 <div align="center">
@@ -146,5 +170,7 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=a34656&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
 
 *⚡ Always open to collab on AI/ML & Open Source — let's build something meaningful!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,8,15&height=100&section=footer" width="100%" alt="Footer wave" />
 
 </div>
