@@ -150,15 +150,13 @@ me.say_hi()
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| [![Apply AI: Analyze Customer Reviews](https://images.credly.com/images/32aad19b-a359-48f5-a332-2cd9ac2b8731/linkedin_thumb_blob)](https://www.credly.com/badges/bfe09f65-ac03-463b-8944-fea7006edfe0) | [![Introduction to Modern AI](https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/linkedin_thumb_blob)](https://www.credly.com/badges/0b86753d-20e7-401b-8696-92452b9f23fd) | [![Python Essentials 1](https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png)](https://www.credly.com/badges/862f2e1b-a5df-4750-83da-ebc667a8e228) |
-| **Apply AI: Analyze Customer Reviews** | **Introduction to Modern AI** | **Python Essentials 1** |
-| Cisco | Cisco | Cisco × OpenEDG |
+| | | | |
+|:---:|:---:|:---:|:---:|
+| [![Apply AI: Analyze Customer Reviews](https://images.credly.com/images/32aad19b-a359-48f5-a332-2cd9ac2b8731/linkedin_thumb_blob)](https://www.credly.com/badges/bfe09f65-ac03-463b-8944-fea7006edfe0) | [![Introduction to Modern AI](https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/linkedin_thumb_blob)](https://www.credly.com/badges/0b86753d-20e7-401b-8696-92452b9f23fd) | [![Python Essentials 1](https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png)](https://www.credly.com/badges/862f2e1b-a5df-4750-83da-ebc667a8e228) | [![Introduction to Data Science](https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/linkedin_thumb_image.png)](https://www.credly.com/badges/6256ecce-68c5-4949-92ba-2cdfc5de4173) |
+| **Apply AI: Analyze Customer Reviews** | **Introduction to Modern AI** | **Python Essentials 1** | **Introduction to Data Science** |
+| Cisco | Cisco | Cisco × OpenEDG | Cisco |
 
 </div>
-
----
 
 ## `> connect --social`
 
